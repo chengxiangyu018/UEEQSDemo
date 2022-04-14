@@ -1313,3 +1313,33 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.14-08.05.18:118][345]LogHttp: Warning: 00000213AFB93900: libcurl info message cache 6 (necessary data rewind wasn't possible)
 [2022.04.14-08.05.18:118][345]LogHttp: Warning: 00000213AFB93900: libcurl info message cache 7 (Closing connection 0)
 [2022.04.14-08.05.18:455][346]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B622DD363-41EC-D244-5905-E6BC68E0B249%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=c61d183147a3a58f81d99996ef9a217a%7Cc3161ef02ca54bfb92d3e499938e0c1a%7Cc653d7ac-b785-4141-bb46-1af01c46c878&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.04.14-08.42.14:916][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AIC_Enemy" FILE="../../../../UEProject/EQS/Content/AI/AIC_Enemy.uasset" SILENT=true
+[2022.04.14-08.42.14:927][899]LogSavePackage: Moving '../../../../UEProject/EQS/Saved/AIC_EnemyEEC895BD49CB38A97D6FA1A655F8B7E4.tmp' to '../../../../UEProject/EQS/Content/AI/AIC_Enemy.uasset'
+[2022.04.14-08.42.14:937][899]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/AIC_Enemy.
+[2022.04.14-08.42.14:938][899]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/AIC_Enemy.
+[2022.04.14-08.42.14:944][899]AssetCheck: New page: Asset Save: AIC_Enemy
+[2022.04.14-08.42.14:944][899]LogContentValidation: Display: Validating Blueprint /Game/AI/AIC_Enemy.AIC_Enemy
+[2022.04.14-08.42.15:385][932]BlueprintLog: New page: Compile AIC_Enemy
+[2022.04.14-08.42.15:479][932]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.04.14-08.42.20:631][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AIC_Enemy" FILE="../../../../UEProject/EQS/Content/AI/AIC_Enemy.uasset" SILENT=true
+[2022.04.14-08.42.20:641][300]LogSavePackage: Moving '../../../../UEProject/EQS/Saved/AIC_EnemyFA12F33141391BD8D806D1B5C1C0E0A0.tmp' to '../../../../UEProject/EQS/Content/AI/AIC_Enemy.uasset'
+[2022.04.14-08.42.20:654][300]AssetCheck: New page: Asset Save: AIC_Enemy
+[2022.04.14-08.42.20:654][300]LogContentValidation: Display: Validating Blueprint /Game/AI/AIC_Enemy.AIC_Enemy
+[2022.04.14-08.44.48:738][231]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.04.14-08.44.48:740][231]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.025
+[2022.04.14-08.44.48:740][231]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/AIC_Enemy] ([1] browsable assets)...
+[2022.04.14-08.44.48:740][231]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/AIC_Enemy]
+[2022.04.14-08.44.48:740][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AIC_Enemy" FILE="../../../../UEProject/EQS/Saved/Autosaves/Game/AI/AIC_Enemy_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2022.04.14-08.44.48:752][231]LogSavePackage: Moving '../../../../UEProject/EQS/Saved/AIC_Enemy_Auto0152A3C694D4C6F6E4B14A7B19AA84676.tmp' to '../../../../UEProject/EQS/Saved/Autosaves/Game/AI/AIC_Enemy_Auto0.uasset'
+[2022.04.14-08.44.48:752][231]LogFileHelpers: Auto-saving content packages took 0.012
+[2022.04.14-08.46.50:306][830]BlueprintLog: New page: Compile AIC_Enemy
+[2022.04.14-08.46.50:344][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.04.14-08.55.29:411][197]BlueprintLog: New page: Compile AIC_Enemy
+[2022.04.14-08.55.29:448][197]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.04.14-08.55.55:872][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.04.14-08.55.55:873][410]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.023
+[2022.04.14-08.55.55:873][410]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/AIC_Enemy] ([1] browsable assets)...
+[2022.04.14-08.55.55:874][410]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/AIC_Enemy]
+[2022.04.14-08.55.55:874][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AIC_Enemy" FILE="../../../../UEProject/EQS/Saved/Autosaves/Game/AI/AIC_Enemy_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.04.14-08.55.55:886][410]LogSavePackage: Moving '../../../../UEProject/EQS/Saved/AIC_Enemy_Auto1D3B8C2224E4B7D2F4F07EEA2893F7B32.tmp' to '../../../../UEProject/EQS/Saved/Autosaves/Game/AI/AIC_Enemy_Auto1.uasset'
+[2022.04.14-08.55.55:887][410]LogFileHelpers: Auto-saving content packages took 0.014
