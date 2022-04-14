@@ -1343,3 +1343,967 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.14-08.55.55:874][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AIC_Enemy" FILE="../../../../UEProject/EQS/Saved/Autosaves/Game/AI/AIC_Enemy_Auto1.uasset" SILENT=false AUTOSAVING=true
 [2022.04.14-08.55.55:886][410]LogSavePackage: Moving '../../../../UEProject/EQS/Saved/AIC_Enemy_Auto1D3B8C2224E4B7D2F4F07EEA2893F7B32.tmp' to '../../../../UEProject/EQS/Saved/Autosaves/Game/AI/AIC_Enemy_Auto1.uasset'
 [2022.04.14-08.55.55:887][410]LogFileHelpers: Auto-saving content packages took 0.014
+[2022.04.14-08.58.23:897][387]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.04.14-08.58.44:486][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.04.14-08.58.44:498][161]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/AI/ThirdPersonCharacter_2.
+[2022.04.14-08.58.44:498][161]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/AI/ThirdPersonCharacter_2.
+[2022.04.14-08.59.03:725][674]LogContentBrowser: Attempting asset rename: ThirdPersonCharacter_2 -> BP_Enemy
+[2022.04.14-08.59.03:769][674]LogMetaData: Removing '/Game/AI/BP_Enemy.SKEL_BP_Enemy_C' ref from Metadata '/Game/AI/ThirdPersonCharacter_2.PackageMetaData'
+[2022.04.14-08.59.03:769][674]LogMetaData: Removing '/Game/AI/BP_Enemy.BP_Enemy_C' ref from Metadata '/Game/AI/ThirdPersonCharacter_2.PackageMetaData'
+[2022.04.14-08.59.03:769][674]LogMetaData: Removing '/Game/AI/BP_Enemy.SKEL_BP_Enemy_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_40' ref from Metadata '/Game/AI/ThirdPersonCharacter_2.PackageMetaData'
+[2022.04.14-08.59.03:769][674]LogMetaData: Removing '/Game/AI/BP_Enemy.SKEL_BP_Enemy_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_47' ref from Metadata '/Game/AI/ThirdPersonCharacter_2.PackageMetaData'
+[2022.04.14-08.59.03:769][674]LogMetaData: Removing '/Game/AI/BP_Enemy.SKEL_BP_Enemy_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79' ref from Metadata '/Game/AI/ThirdPersonCharacter_2.PackageMetaData'
+[2022.04.14-08.59.03:769][674]LogMetaData: Removing '/Game/AI/BP_Enemy.SKEL_BP_Enemy_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90' ref from Metadata '/Game/AI/ThirdPersonCharacter_2.PackageMetaData'
+[2022.04.14-08.59.03:769][674]LogMetaData: Removing '/Game/AI/BP_Enemy.SKEL_BP_Enemy_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_38' ref from Metadata '/Game/AI/ThirdPersonCharacter_2.PackageMetaData'
+[2022.04.14-08.59.03:769][674]LogMetaData: Removing '/Game/AI/BP_Enemy.SKEL_BP_Enemy_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_53' ref from Metadata '/Game/AI/ThirdPersonCharacter_2.PackageMetaData'
+[2022.04.14-08.59.03:769][674]LogMetaData: Removing '/Game/AI/BP_Enemy.SKEL_BP_Enemy_C:UserConstructionScript' ref from Metadata '/Game/AI/ThirdPersonCharacter_2.PackageMetaData'
+[2022.04.14-08.59.03:830][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_Enemy" FILE="../../../../UEProject/EQS/Content/AI/BP_Enemy.uasset" SILENT=true
+[2022.04.14-08.59.03:847][674]LogSavePackage: Moving '../../../../UEProject/EQS/Saved/BP_EnemyA48957B8454BF0DD24D5229DD32E6218.tmp' to '../../../../UEProject/EQS/Content/AI/BP_Enemy.uasset'
+[2022.04.14-08.59.03:923][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.04.14-08.59.03:952][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.04.14-08.59.03:974][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.04.14-08.59.03:994][674]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/BP_Enemy.
+[2022.04.14-08.59.03:995][674]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/BP_Enemy.
+[2022.04.14-08.59.04:001][674]AssetCheck: New page: Asset Save: BP_Enemy
+[2022.04.14-08.59.04:001][674]LogContentValidation: Display: Validating Blueprint /Game/AI/BP_Enemy.BP_Enemy
+[2022.04.14-08.59.05:250][803]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/BP_Enemy.BP_Enemy
+[2022.04.14-08.59.29:798][909]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:1).
+[2022.04.14-08.59.54:039][769]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.04.14-08.59.55:710][769]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.04.14-08.59.55:718][769]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.04.14-08.59.55:728][769]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.04.14-09.00.04:430][133]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2022.04.14-09.00.04:432][133]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/AI/NewBlueprint.
+[2022.04.14-09.00.04:432][133]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/AI/NewBlueprint.
+[2022.04.14-09.00.04:433][133]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.04.14-09.00.05:781][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.04.14-09.00.06:838][186]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.14-09.00.06:953][186]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-09.00.06:978][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-09.00.07:025][186]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.04.14-09.00.07:025][186]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-09.00.07:025][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-09.00.07:081][186]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/AI/BP_Enemy.BP_Enemy
+[2022.04.14-09.00.08:099][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.04.14-09.00.08:144][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.04.14-09.00.08:164][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.04.14-09.00.08:182][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.04.14-09.00.13:294][464]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2022.04.14-09.00.21:751][155]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Enemy
+[2022.04.14-09.00.21:790][155]LogMetaData: Removing '/Game/AI/BP_Enemy.BP_Enemy:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/AI/NewBlueprint.PackageMetaData'
+[2022.04.14-09.00.21:790][155]LogMetaData: Removing '/Game/AI/BP_Enemy.SKEL_BP_Enemy_C:UserConstructionScript' ref from Metadata '/Game/AI/NewBlueprint.PackageMetaData'
+[2022.04.14-09.00.21:790][155]LogMetaData: Removing '/Game/AI/BP_Enemy.SKEL_BP_Enemy_C' ref from Metadata '/Game/AI/NewBlueprint.PackageMetaData'
+[2022.04.14-09.00.21:790][155]LogMetaData: Removing '/Game/AI/BP_Enemy.BP_Enemy_C' ref from Metadata '/Game/AI/NewBlueprint.PackageMetaData'
+[2022.04.14-09.00.21:790][155]LogMetaData: Removing '/Game/AI/BP_Enemy.BP_Enemy:EventGraph.K2Node_Event_0' ref from Metadata '/Game/AI/NewBlueprint.PackageMetaData'
+[2022.04.14-09.00.21:790][155]LogMetaData: Removing '/Game/AI/BP_Enemy.BP_Enemy:EventGraph.K2Node_Event_1' ref from Metadata '/Game/AI/NewBlueprint.PackageMetaData'
+[2022.04.14-09.00.21:790][155]LogMetaData: Removing '/Game/AI/BP_Enemy.BP_Enemy:EventGraph.K2Node_Event_2' ref from Metadata '/Game/AI/NewBlueprint.PackageMetaData'
+[2022.04.14-09.00.21:823][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_Enemy" FILE="../../../../UEProject/EQS/Content/AI/BP_Enemy.uasset" SILENT=true
+[2022.04.14-09.00.21:826][155]LogSavePackage: Moving '../../../../UEProject/EQS/Saved/BP_Enemy40FF01064C71ECA291EAB386C4EE115B.tmp' to '../../../../UEProject/EQS/Content/AI/BP_Enemy.uasset'
+[2022.04.14-09.00.21:909][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.04.14-09.00.21:940][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.04.14-09.00.21:959][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.04.14-09.00.21:977][155]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/BP_Enemy.
+[2022.04.14-09.00.21:978][155]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/BP_Enemy.
+[2022.04.14-09.00.21:982][155]AssetCheck: New page: Asset Save: BP_Enemy
+[2022.04.14-09.00.21:982][155]LogContentValidation: Display: Validating Blueprint /Game/AI/BP_Enemy.BP_Enemy
+[2022.04.14-09.00.27:409][790]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/BP_Enemy.BP_Enemy
+[2022.04.14-09.01.34:793][  3]LogSlate: Window 'BB_Enemy' being destroyed
+[2022.04.14-09.02.02:376][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.04.14-09.02.02:388][434]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_2.
+[2022.04.14-09.02.02:388][434]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_2.
+[2022.04.14-09.02.13:350][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../UEProject/EQS/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2022.04.14-09.02.13:351][336]LogSavePackage: Moving '../../../../UEProject/EQS/Saved/ThirdPersonCharacterF9652F4F483F7FAF5049E28488F3D745.tmp' to '../../../../UEProject/EQS/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.04.14-09.02.13:463][336]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.14-09.02.13:463][336]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.04.14-09.02.13:463][336]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.Default__ThirdPersonCharacter_C
+[2022.04.14-09.02.13:463][336]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C
+[2022.04.14-09.02.15:321][546]LogSlate: Window 'Failed Renames' being destroyed
+[2022.04.14-09.02.18:819][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.04.14-09.02.19:776][751]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.14-09.02.19:888][751]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_2.ThirdPersonCharacter_2
+[2022.04.14-09.02.20:078][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.04.14-09.02.20:126][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.04.14-09.02.24:268][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../UEProject/EQS/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2022.04.14-09.02.24:268][137]LogSavePackage: Moving '../../../../UEProject/EQS/Saved/ThirdPersonCharacterCA4EC9CC4AEC065D988E698BD1A81269.tmp' to '../../../../UEProject/EQS/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.04.14-09.02.24:361][137]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.14-09.02.24:361][137]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.04.14-09.02.24:361][137]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.Default__ThirdPersonCharacter_C
+[2022.04.14-09.02.24:361][137]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C
+[2022.04.14-09.02.32:943][161]LogSlate: Window 'Failed Renames' being destroyed
+[2022.04.14-09.02.35:402][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../UEProject/EQS/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2022.04.14-09.02.35:403][393]LogSavePackage: Moving '../../../../UEProject/EQS/Saved/ThirdPersonCharacter314B90A44A2433E1B654E7ADB66FB07F.tmp' to '../../../../UEProject/EQS/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.04.14-09.02.35:493][393]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.14-09.02.35:493][393]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.04.14-09.02.35:493][393]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.Default__ThirdPersonCharacter_C
+[2022.04.14-09.02.35:493][393]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C
+[2022.04.14-09.02.45:112][138]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-09.02.45:112][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-09.03.16:232][610]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2022.04.14-09.03.17:844][797]LogSlate: Window 'Failed Renames' being destroyed
+[2022.04.14-09.03.22:249][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.04.14-09.03.22:264][213]LogSavePackage: Moving '../../../../UEProject/EQS/Saved/ThirdPersonExampleMap1E53696447A640C142AA49B23EEDE3C7.tmp' to '../../../../UEProject/EQS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.04.14-09.03.22:272][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData" FILE="../../../../UEProject/EQS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" SILENT=true
+[2022.04.14-09.03.22:311][213]LogSavePackage: Moving '../../../../UEProject/EQS/Saved/ThirdPersonExampleMap_BuiltDataC3530CF74DBDF311A155B894F04FE197.tmp' to '../../../../UEProject/EQS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.04.14-09.03.22:325][213]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.14-09.03.22:325][213]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.04.14-09.03.22:325][213]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.04.14-09.03.23:121][282]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Ramp_StaticMesh)
+[2022.04.14-09.04.00:420][931]BlueprintLog: New page: Compile AIC_Enemy
+[2022.04.14-09.04.00:459][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.04.14-09.04.01:610][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AIC_Enemy" FILE="../../../../UEProject/EQS/Content/AI/AIC_Enemy.uasset" SILENT=true
+[2022.04.14-09.04.01:624][ 12]LogSavePackage: Moving '../../../../UEProject/EQS/Saved/AIC_Enemy0FF75D164A334C2D82BDD596DE8B92D2.tmp' to '../../../../UEProject/EQS/Content/AI/AIC_Enemy.uasset'
+[2022.04.14-09.04.01:634][ 12]AssetCheck: New page: Asset Save: AIC_Enemy
+[2022.04.14-09.04.01:634][ 12]LogContentValidation: Display: Validating Blueprint /Game/AI/AIC_Enemy.AIC_Enemy
+[2022.04.14-09.04.02:140][ 52]BlueprintLog: New page: Compile AIC_Enemy
+[2022.04.14-09.04.02:174][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.04.14-09.04.11:534][771]LogSlate: Window 'Failed Renames' being destroyed
+[2022.04.14-09.04.17:386][155]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.04.14-09.04.18:594][155]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.14-09.04.18:680][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.04.14-09.04.18:707][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.04.14-09.04.18:726][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.04.14-09.04.38:918][352]LogSlate: Window 'Failed Renames' being destroyed
+[2022.04.14-09.04.42:136][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.04.14-09.04.42:146][669]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_2.
+[2022.04.14-09.04.42:146][669]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_2.
+[2022.04.14-09.04.59:185][138]LogContentBrowser: Attempting asset rename: ThirdPersonCharacter -> BP_Enemy
+[2022.04.14-09.04.59:214][138]LogMetaData: Removing '/Game/AI/BP_Enemy.BP_Enemy_C' ref from Metadata '/Game/AI/ThirdPersonCharacter.PackageMetaData'
+[2022.04.14-09.04.59:214][138]LogMetaData: Removing '/Game/AI/BP_Enemy.SKEL_BP_Enemy_C' ref from Metadata '/Game/AI/ThirdPersonCharacter.PackageMetaData'
+[2022.04.14-09.04.59:214][138]LogMetaData: Removing '/Game/AI/BP_Enemy.SKEL_BP_Enemy_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_40' ref from Metadata '/Game/AI/ThirdPersonCharacter.PackageMetaData'
+[2022.04.14-09.04.59:214][138]LogMetaData: Removing '/Game/AI/BP_Enemy.SKEL_BP_Enemy_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_47' ref from Metadata '/Game/AI/ThirdPersonCharacter.PackageMetaData'
+[2022.04.14-09.04.59:214][138]LogMetaData: Removing '/Game/AI/BP_Enemy.SKEL_BP_Enemy_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79' ref from Metadata '/Game/AI/ThirdPersonCharacter.PackageMetaData'
+[2022.04.14-09.04.59:214][138]LogMetaData: Removing '/Game/AI/BP_Enemy.SKEL_BP_Enemy_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90' ref from Metadata '/Game/AI/ThirdPersonCharacter.PackageMetaData'
+[2022.04.14-09.04.59:214][138]LogMetaData: Removing '/Game/AI/BP_Enemy.SKEL_BP_Enemy_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_38' ref from Metadata '/Game/AI/ThirdPersonCharacter.PackageMetaData'
+[2022.04.14-09.04.59:214][138]LogMetaData: Removing '/Game/AI/BP_Enemy.SKEL_BP_Enemy_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_53' ref from Metadata '/Game/AI/ThirdPersonCharacter.PackageMetaData'
+[2022.04.14-09.04.59:214][138]LogMetaData: Removing '/Game/AI/BP_Enemy.SKEL_BP_Enemy_C:UserConstructionScript' ref from Metadata '/Game/AI/ThirdPersonCharacter.PackageMetaData'
+[2022.04.14-09.04.59:259][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_Enemy" FILE="../../../../UEProject/EQS/Content/AI/BP_Enemy.uasset" SILENT=true
+[2022.04.14-09.04.59:277][138]LogSavePackage: Moving '../../../../UEProject/EQS/Saved/BP_EnemyB20E3DD84ACAEC00DA500CA7CF853456.tmp' to '../../../../UEProject/EQS/Content/AI/BP_Enemy.uasset'
+[2022.04.14-09.04.59:278][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/ThirdPersonCharacter" FILE="../../../../UEProject/EQS/Content/AI/ThirdPersonCharacter.uasset" SILENT=true
+[2022.04.14-09.04.59:278][138]LogSavePackage: Moving '../../../../UEProject/EQS/Saved/ThirdPersonCharacter27F6970B46088E8D56074086F5E3AB4A.tmp' to '../../../../UEProject/EQS/Content/AI/ThirdPersonCharacter.uasset'
+[2022.04.14-09.04.59:306][138]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/BP_Enemy.
+[2022.04.14-09.04.59:307][138]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/BP_Enemy.
+[2022.04.14-09.04.59:312][138]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.14-09.04.59:312][138]LogContentValidation: Display: Validating Blueprint /Game/AI/BP_Enemy.BP_Enemy
+[2022.04.14-09.04.59:312][138]LogContentValidation: Display: Validating ObjectRedirector /Game/AI/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.04.14-09.04.59:312][138]LogContentValidation: Display: Validating ObjectRedirector /Game/AI/ThirdPersonCharacter.Default__ThirdPersonCharacter_C
+[2022.04.14-09.04.59:312][138]LogContentValidation: Display: Validating ObjectRedirector /Game/AI/ThirdPersonCharacter.ThirdPersonCharacter_C
+[2022.04.14-09.05.08:124][748]LogContentBrowser: Attempting asset rename: ThirdPersonCharacter_2 -> ThirdPersonCharacter_2
+[2022.04.14-09.05.19:473][843]LogContentBrowser: Attempting asset rename: ThirdPersonCharacter_2 -> ThirdPersonCharacter_2
+[2022.04.14-09.05.24:341][222]LogContentBrowser: Attempting asset rename: ThirdPersonCharacter_2 -> ThirdPersonCharacter_2
+[2022.04.14-09.05.49:964][509]LogSlate: Window 'Content Browser' being destroyed
+[2022.04.14-09.05.49:969][509]LogSlate: Window 'Content Browser' being destroyed
+[2022.04.14-09.06.11:411][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.04.14-09.06.12:706][416]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.14-09.06.12:813][416]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_2.ThirdPersonCharacter_2
+[2022.04.14-09.06.12:991][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.04.14-09.06.13:034][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.04.14-09.06.20:523][558]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2022.04.14-09.06.26:856][132]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/BP_Enemy.BP_Enemy_C' ref from Metadata '/Game/AI/BP_Enemy.PackageMetaData'
+[2022.04.14-09.06.26:856][132]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/BP_Enemy.SKEL_BP_Enemy_C' ref from Metadata '/Game/AI/BP_Enemy.PackageMetaData'
+[2022.04.14-09.06.26:856][132]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/BP_Enemy.SKEL_BP_Enemy_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_40' ref from Metadata '/Game/AI/BP_Enemy.PackageMetaData'
+[2022.04.14-09.06.26:856][132]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/BP_Enemy.SKEL_BP_Enemy_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_47' ref from Metadata '/Game/AI/BP_Enemy.PackageMetaData'
+[2022.04.14-09.06.26:856][132]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/BP_Enemy.SKEL_BP_Enemy_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79' ref from Metadata '/Game/AI/BP_Enemy.PackageMetaData'
+[2022.04.14-09.06.26:856][132]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/BP_Enemy.SKEL_BP_Enemy_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90' ref from Metadata '/Game/AI/BP_Enemy.PackageMetaData'
+[2022.04.14-09.06.26:856][132]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/BP_Enemy.SKEL_BP_Enemy_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_38' ref from Metadata '/Game/AI/BP_Enemy.PackageMetaData'
+[2022.04.14-09.06.26:856][132]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/BP_Enemy.SKEL_BP_Enemy_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_53' ref from Metadata '/Game/AI/BP_Enemy.PackageMetaData'
+[2022.04.14-09.06.26:856][132]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/BP_Enemy.SKEL_BP_Enemy_C:UserConstructionScript' ref from Metadata '/Game/AI/BP_Enemy.PackageMetaData'
+[2022.04.14-09.06.26:898][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/BP_Enemy" FILE="../../../../UEProject/EQS/Content/ThirdPersonBP/Blueprints/BP_Enemy.uasset" SILENT=true
+[2022.04.14-09.06.26:916][132]LogSavePackage: Moving '../../../../UEProject/EQS/Saved/BP_Enemy08F356954F93E5648128D2B08050AAEA.tmp' to '../../../../UEProject/EQS/Content/ThirdPersonBP/Blueprints/BP_Enemy.uasset'
+[2022.04.14-09.06.26:993][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.04.14-09.06.27:021][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.04.14-09.06.27:041][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.04.14-09.06.27:073][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/ThirdPersonCharacter" FILE="../../../../UEProject/EQS/Content/AI/ThirdPersonCharacter.uasset" SILENT=true
+[2022.04.14-09.06.27:074][132]LogSavePackage: Moving '../../../../UEProject/EQS/Saved/ThirdPersonCharacterC3D9BC874414D66B8DA26088C2DE38DA.tmp' to '../../../../UEProject/EQS/Content/AI/ThirdPersonCharacter.uasset'
+[2022.04.14-09.06.27:106][132]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ThirdPersonBP/Blueprints/BP_Enemy.
+[2022.04.14-09.06.27:107][132]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ThirdPersonBP/Blueprints/BP_Enemy.
+[2022.04.14-09.06.27:112][132]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.14-09.06.27:112][132]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/BP_Enemy.BP_Enemy
+[2022.04.14-09.06.27:112][132]LogContentValidation: Display: Validating ObjectRedirector /Game/AI/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.04.14-09.06.27:112][132]LogContentValidation: Display: Validating ObjectRedirector /Game/AI/ThirdPersonCharacter.Default__ThirdPersonCharacter_C
+[2022.04.14-09.06.27:112][132]LogContentValidation: Display: Validating ObjectRedirector /Game/AI/ThirdPersonCharacter.ThirdPersonCharacter_C
+[2022.04.14-09.06.35:135][673]LogLinker: Warning: [AssetLog] D:\UEProject\EQS\Content\ThirdPersonBP\Blueprints\ThirdPersonGameMode.uasset: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter': Can't find file.
+[2022.04.14-09.06.35:135][673]LogLinker: Warning: [AssetLog] D:\UEProject\EQS\Content\ThirdPersonBP\Blueprints\ThirdPersonGameMode.uasset: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter': Can't find file.
+[2022.04.14-09.06.35:136][673]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter': Can't find file.
+[2022.04.14-09.06.35:136][673]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter': Can't find file.
+[2022.04.14-09.06.35:136][673]LogLinker: Warning: [AssetLog] D:\UEProject\EQS\Content\ThirdPersonBP\Blueprints\ThirdPersonGameMode.uasset: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter': Can't find file.
+[2022.04.14-09.06.35:136][673]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C Referenced by Default__ThirdPersonGameMode_C
+[2022.04.14-09.06.37:792][867]LogContentBrowser: Attempting asset rename: ThirdPersonGameMode -> ThirdPersonGameMode
+[2022.04.14-09.06.52:885][ 14]LogContentBrowser: Attempting asset rename: BP_Enemy -> ThirdPersonController
+[2022.04.14-09.06.52:908][ 14]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/ThirdPersonController.ThirdPersonController_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Enemy.PackageMetaData'
+[2022.04.14-09.06.52:908][ 14]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/ThirdPersonController.SKEL_ThirdPersonController_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Enemy.PackageMetaData'
+[2022.04.14-09.06.52:908][ 14]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/ThirdPersonController.SKEL_ThirdPersonController_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_40' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Enemy.PackageMetaData'
+[2022.04.14-09.06.52:908][ 14]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/ThirdPersonController.SKEL_ThirdPersonController_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_47' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Enemy.PackageMetaData'
+[2022.04.14-09.06.52:908][ 14]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/ThirdPersonController.SKEL_ThirdPersonController_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Enemy.PackageMetaData'
+[2022.04.14-09.06.52:908][ 14]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/ThirdPersonController.SKEL_ThirdPersonController_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Enemy.PackageMetaData'
+[2022.04.14-09.06.52:908][ 14]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/ThirdPersonController.SKEL_ThirdPersonController_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_38' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Enemy.PackageMetaData'
+[2022.04.14-09.06.52:908][ 14]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/ThirdPersonController.SKEL_ThirdPersonController_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_53' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Enemy.PackageMetaData'
+[2022.04.14-09.06.52:908][ 14]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/ThirdPersonController.SKEL_ThirdPersonController_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Enemy.PackageMetaData'
+[2022.04.14-09.06.52:964][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonController" FILE="../../../../UEProject/EQS/Content/ThirdPersonBP/Blueprints/ThirdPersonController.uasset" SILENT=true
+[2022.04.14-09.06.52:981][ 14]LogSavePackage: Moving '../../../../UEProject/EQS/Saved/ThirdPersonController7F212A8E42515C4B3398E492811B89B4.tmp' to '../../../../UEProject/EQS/Content/ThirdPersonBP/Blueprints/ThirdPersonController.uasset'
+[2022.04.14-09.06.53:059][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.04.14-09.06.53:090][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.04.14-09.06.53:109][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.04.14-09.06.53:122][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/ThirdPersonCharacter" FILE="../../../../UEProject/EQS/Content/AI/ThirdPersonCharacter.uasset" SILENT=true
+[2022.04.14-09.06.53:123][ 14]LogSavePackage: Moving '../../../../UEProject/EQS/Saved/ThirdPersonCharacter14B3C5D145F59F71180CB084A7E8EFF8.tmp' to '../../../../UEProject/EQS/Content/AI/ThirdPersonCharacter.uasset'
+[2022.04.14-09.06.53:149][ 14]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ThirdPersonBP/Blueprints/ThirdPersonController.
+[2022.04.14-09.06.53:150][ 14]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ThirdPersonBP/Blueprints/ThirdPersonController.
+[2022.04.14-09.06.53:154][ 14]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.14-09.06.53:154][ 14]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonController.ThirdPersonController
+[2022.04.14-09.06.53:154][ 14]LogContentValidation: Display: Validating ObjectRedirector /Game/AI/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.04.14-09.06.53:154][ 14]LogContentValidation: Display: Validating ObjectRedirector /Game/AI/ThirdPersonCharacter.Default__ThirdPersonCharacter_C
+[2022.04.14-09.06.53:154][ 14]LogContentValidation: Display: Validating ObjectRedirector /Game/AI/ThirdPersonCharacter.ThirdPersonCharacter_C
+[2022.04.14-09.06.59:103][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.04.14-09.06.59:112][708]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/AI/ThirdPersonController.
+[2022.04.14-09.06.59:113][708]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/AI/ThirdPersonController.
+[2022.04.14-09.07.09:042][578]LogContentBrowser: Attempting asset rename: ThirdPersonController -> BP_Enemy
+[2022.04.14-09.07.09:075][578]LogMetaData: Removing '/Game/AI/BP_Enemy.SKEL_BP_Enemy_C' ref from Metadata '/Game/AI/ThirdPersonController.PackageMetaData'
+[2022.04.14-09.07.09:075][578]LogMetaData: Removing '/Game/AI/BP_Enemy.BP_Enemy_C' ref from Metadata '/Game/AI/ThirdPersonController.PackageMetaData'
+[2022.04.14-09.07.09:075][578]LogMetaData: Removing '/Game/AI/BP_Enemy.SKEL_BP_Enemy_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_40' ref from Metadata '/Game/AI/ThirdPersonController.PackageMetaData'
+[2022.04.14-09.07.09:075][578]LogMetaData: Removing '/Game/AI/BP_Enemy.SKEL_BP_Enemy_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_47' ref from Metadata '/Game/AI/ThirdPersonController.PackageMetaData'
+[2022.04.14-09.07.09:075][578]LogMetaData: Removing '/Game/AI/BP_Enemy.SKEL_BP_Enemy_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79' ref from Metadata '/Game/AI/ThirdPersonController.PackageMetaData'
+[2022.04.14-09.07.09:075][578]LogMetaData: Removing '/Game/AI/BP_Enemy.SKEL_BP_Enemy_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90' ref from Metadata '/Game/AI/ThirdPersonController.PackageMetaData'
+[2022.04.14-09.07.09:075][578]LogMetaData: Removing '/Game/AI/BP_Enemy.SKEL_BP_Enemy_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_38' ref from Metadata '/Game/AI/ThirdPersonController.PackageMetaData'
+[2022.04.14-09.07.09:075][578]LogMetaData: Removing '/Game/AI/BP_Enemy.SKEL_BP_Enemy_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_53' ref from Metadata '/Game/AI/ThirdPersonController.PackageMetaData'
+[2022.04.14-09.07.09:075][578]LogMetaData: Removing '/Game/AI/BP_Enemy.SKEL_BP_Enemy_C:UserConstructionScript' ref from Metadata '/Game/AI/ThirdPersonController.PackageMetaData'
+[2022.04.14-09.07.09:119][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_Enemy" FILE="../../../../UEProject/EQS/Content/AI/BP_Enemy.uasset" SILENT=true
+[2022.04.14-09.07.09:136][578]LogSavePackage: Moving '../../../../UEProject/EQS/Saved/BP_EnemyEA6E22F24398C16B7D57C8BDA3B8110D.tmp' to '../../../../UEProject/EQS/Content/AI/BP_Enemy.uasset'
+[2022.04.14-09.07.09:211][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.04.14-09.07.09:240][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.04.14-09.07.09:259][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.04.14-09.07.09:278][578]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/BP_Enemy.
+[2022.04.14-09.07.09:279][578]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/BP_Enemy.
+[2022.04.14-09.07.09:283][578]AssetCheck: New page: Asset Save: BP_Enemy
+[2022.04.14-09.07.09:283][578]LogContentValidation: Display: Validating Blueprint /Game/AI/BP_Enemy.BP_Enemy
+[2022.04.14-09.07.10:357][641]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/BP_Enemy.BP_Enemy
+[2022.04.14-09.07.18:356][ 68]BlueprintLog: New page: Compile BP_Enemy
+[2022.04.14-09.07.18:404][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.04.14-09.07.19:021][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_Enemy" FILE="../../../../UEProject/EQS/Content/AI/BP_Enemy.uasset" SILENT=true
+[2022.04.14-09.07.19:027][111]LogSavePackage: Moving '../../../../UEProject/EQS/Saved/BP_Enemy41292AF1414175A6332ED792977F0C2A.tmp' to '../../../../UEProject/EQS/Content/AI/BP_Enemy.uasset'
+[2022.04.14-09.07.19:040][111]AssetCheck: New page: Asset Save: BP_Enemy
+[2022.04.14-09.07.19:040][111]LogContentValidation: Display: Validating Blueprint /Game/AI/BP_Enemy.BP_Enemy
+[2022.04.14-09.07.24:474][526]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2022.04.14-09.07.25:361][617]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2022.04.14-09.08.32:951][166]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.04.14-09.08.55:075][161]BlueprintLog: New page: Compile BP_Enemy
+[2022.04.14-09.08.55:121][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.04.14-09.08.56:847][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_Enemy" FILE="../../../../UEProject/EQS/Content/AI/BP_Enemy.uasset" SILENT=true
+[2022.04.14-09.08.56:853][285]LogSavePackage: Moving '../../../../UEProject/EQS/Saved/BP_EnemyEDAEE34D43C488CA6DF5C2B3D4D652F7.tmp' to '../../../../UEProject/EQS/Content/AI/BP_Enemy.uasset'
+[2022.04.14-09.08.56:865][285]AssetCheck: New page: Asset Save: BP_Enemy
+[2022.04.14-09.08.56:866][285]LogContentValidation: Display: Validating Blueprint /Game/AI/BP_Enemy.BP_Enemy
+[2022.04.14-09.13.10:983][735]BlueprintLog: New page: Compile BP_Enemy
+[2022.04.14-09.13.11:030][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.04.14-09.13.13:652][939]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (CubeMesh)
+[2022.04.14-09.13.14:528][ 34]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall10)
+[2022.04.14-09.14.31:001][487]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall9)
+[2022.04.14-09.14.52:683][405]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall10)
+[2022.04.14-09.15.08:825][840]LogEditorViewport: Clicking on Actor (context menu): ThirdPersonController_C (ThirdPersonCharacter)
+[2022.04.14-09.15.13:049][323]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonController.ThirdPersonController
+[2022.04.14-09.16.09:401][313]BlueprintLog: New page: Compile ThirdPersonController
+[2022.04.14-09.16.09:602][313]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.04.14-09.16.10:901][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.04.14-09.16.10:914][373]LogSavePackage: Moving '../../../../UEProject/EQS/Saved/ThirdPersonExampleMap_Auto207C2C6A44602BB3B9B7A6EBDA1D7DBC9.tmp' to '../../../../UEProject/EQS/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2022.04.14-09.16.10:915][373]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.039
+[2022.04.14-09.16.10:915][373]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.039
+[2022.04.14-09.16.10:915][373]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([3] browsable assets)...
+[2022.04.14-09.16.10:915][373]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2022.04.14-09.16.10:916][373]LogSavePackage: Moving '../../../../UEProject/EQS/Saved/ThirdPersonCharacter_Auto26D40B31E4D4BC72F5B39468372EFFE60.tmp' to '../../../../UEProject/EQS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2022.04.14-09.16.10:916][373]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonController] ([1] browsable assets)...
+[2022.04.14-09.16.10:927][373]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonController.ThirdPersonController]
+[2022.04.14-09.16.10:927][373]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonController]
+[2022.04.14-09.16.10:944][373]LogSavePackage: Moving '../../../../UEProject/EQS/Saved/ThirdPersonController_Auto29B078880430EC777928521B98BB5D274.tmp' to '../../../../UEProject/EQS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonController_Auto2.uasset'
+[2022.04.14-09.16.10:945][373]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BP_Enemy] ([1] browsable assets)...
+[2022.04.14-09.16.10:957][373]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_Enemy.BP_Enemy]
+[2022.04.14-09.16.10:957][373]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_Enemy]
+[2022.04.14-09.16.10:957][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_Enemy" FILE="../../../../UEProject/EQS/Saved/Autosaves/Game/AI/BP_Enemy_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2022.04.14-09.16.10:963][373]LogSavePackage: Moving '../../../../UEProject/EQS/Saved/BP_Enemy_Auto2475531CA4D6BDF3C427F918C07168AE4.tmp' to '../../../../UEProject/EQS/Saved/Autosaves/Game/AI/BP_Enemy_Auto2.uasset'
+[2022.04.14-09.16.10:963][373]LogFileHelpers: Auto-saving content packages took 0.049
+[2022.04.14-09.16.12:995][486]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall11)
+[2022.04.14-09.16.20:593][ 54]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2022.04.14-09.16.21:773][175]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.14-09.16.21:813][175]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.14-09.16.21:822][175]PIE: New page: PIE session: ThirdPersonExampleMap (2022年4月15日 上午1:16:21)
+[2022.04.14-09.16.21:827][175]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.04.14-09.16.21:835][175]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.04.14-09.16.21:842][175]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.14-09.16.21:904][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062044s)
+[2022.04.14-09.16.21:910][175]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.04.14-09.16.21:910][175]LogPlayLevel: PIE: World Init took: (0.006358s)
+[2022.04.14-09.16.21:910][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.068596s)
+[2022.04.14-09.16.21:937][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.04.14-09.16.21:943][175]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.04.14-09.16.21:943][175]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.14-09.16.21:943][175]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.14-09.16.21:943][175]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.14-09.16.21:943][175]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.14-09.16.21:943][175]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.14-09.16.21:943][175]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.14-09.16.21:943][175]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.14-09.16.21:943][175]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.14-09.16.21:943][175]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.14-09.16.21:943][175]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.14-09.16.21:947][175]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.14-09.16.21:947][175]LogAudioMixer: Display: 1: FrontRight
+[2022.04.14-09.16.21:963][175]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.04.14-09.16.21:963][175]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.14-09.16.21:964][175]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.14-09.16.21:964][175]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.14-09.16.21:964][175]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.14-09.16.21:964][175]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.14-09.16.21:964][175]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.14-09.16.21:976][175]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.14-09.16.21:976][175]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.14-09.16.21:976][175]LogInit: FAudioDevice initialized.
+[2022.04.14-09.16.21:976][175]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2022.04.14-09.16.22:000][175]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.14-09.16.22:060][175]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.04.14-17.16.22
+[2022.04.14-09.16.22:124][175]LogWorld: Bringing up level for play took: 0.066207
+[2022.04.14-09.16.22:125][175]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2022.04.14-09.16.22:174][175]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 20 classes and 0 folders.
+[2022.04.14-09.16.22:179][175]PIE: Server logged in
+[2022.04.14-09.16.22:183][175]PIE: Play in editor total start time 0.407 seconds.
+[2022.04.14-09.16.33:153][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.14-09.16.33:153][282]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.14-09.16.33:153][282]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-09.16.33:153][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-09.16.33:172][282]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.14-09.16.33:186][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-09.16.33:216][282]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.14-09.16.33:216][282]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.14-09.16.33:217][282]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.14-09.16.33:230][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.14-09.16.33:265][282]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2022.04.14-09.16.33:300][283]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.04.14-09.16.33:411][289]Cmd: SELECT NONE
+[2022.04.14-09.16.35:510][467]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.14-09.16.35:518][467]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.14-09.16.35:519][467]PIE: New page: PIE session: ThirdPersonExampleMap (2022年4月15日 上午1:16:35)
+[2022.04.14-09.16.35:519][467]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.14-09.16.35:527][467]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009021s)
+[2022.04.14-09.16.35:528][467]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.04.14-09.16.35:528][467]LogPlayLevel: PIE: World Init took: (0.001016s)
+[2022.04.14-09.16.35:528][467]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010177s)
+[2022.04.14-09.16.35:568][467]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.04.14-09.16.35:569][467]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.04.14-09.16.35:569][467]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.14-09.16.35:569][467]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.14-09.16.35:569][467]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.14-09.16.35:569][467]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.14-09.16.35:569][467]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.14-09.16.35:569][467]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.14-09.16.35:569][467]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.14-09.16.35:569][467]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.14-09.16.35:570][467]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.14-09.16.35:570][467]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.14-09.16.35:572][467]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.14-09.16.35:572][467]LogAudioMixer: Display: 1: FrontRight
+[2022.04.14-09.16.35:583][467]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.04.14-09.16.35:584][467]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.14-09.16.35:584][467]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.14-09.16.35:584][467]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.14-09.16.35:584][467]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.14-09.16.35:584][467]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.14-09.16.35:584][467]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.14-09.16.35:584][467]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.14-09.16.35:584][467]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.14-09.16.35:585][467]LogInit: FAudioDevice initialized.
+[2022.04.14-09.16.35:585][467]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2022.04.14-09.16.35:599][467]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.14-09.16.35:600][467]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.04.14-17.16.35
+[2022.04.14-09.16.35:600][467]LogWorld: Bringing up level for play took: 0.002143
+[2022.04.14-09.16.35:601][467]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.04.14-09.16.35:602][467]PIE: Server logged in
+[2022.04.14-09.16.35:603][467]PIE: Play in editor total start time 0.09 seconds.
+[2022.04.14-09.16.53:451][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.14-09.16.53:451][327]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.14-09.16.53:452][327]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-09.16.53:452][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-09.16.53:461][327]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.14-09.16.53:466][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-09.16.53:493][327]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.14-09.16.53:493][327]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.14-09.16.53:494][327]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.14-09.16.53:507][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.14-09.16.53:509][327]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.04.14-09.16.53:526][328]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.04.14-09.16.53:601][333]Cmd: SELECT NONE
+[2022.04.14-09.18.14:227][627]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2022.04.14-09.18.14:884][669]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall10)
+[2022.04.14-09.18.15:681][720]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.14-09.18.15:689][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.14-09.18.15:689][720]PIE: New page: PIE session: ThirdPersonExampleMap (2022年4月15日 上午1:18:15)
+[2022.04.14-09.18.15:689][720]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.14-09.18.15:697][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007910s)
+[2022.04.14-09.18.15:698][720]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.04.14-09.18.15:698][720]LogPlayLevel: PIE: World Init took: (0.001139s)
+[2022.04.14-09.18.15:698][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009195s)
+[2022.04.14-09.18.15:730][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.04.14-09.18.15:732][720]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.04.14-09.18.15:732][720]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.14-09.18.15:732][720]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.14-09.18.15:732][720]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.14-09.18.15:732][720]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.14-09.18.15:732][720]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.14-09.18.15:732][720]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.14-09.18.15:732][720]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.14-09.18.15:732][720]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.14-09.18.15:732][720]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.14-09.18.15:732][720]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.14-09.18.15:735][720]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.14-09.18.15:735][720]LogAudioMixer: Display: 1: FrontRight
+[2022.04.14-09.18.15:746][720]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.04.14-09.18.15:746][720]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.14-09.18.15:747][720]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.14-09.18.15:747][720]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.14-09.18.15:747][720]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.14-09.18.15:747][720]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.14-09.18.15:747][720]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.14-09.18.15:759][720]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.14-09.18.15:759][720]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.14-09.18.15:759][720]LogInit: FAudioDevice initialized.
+[2022.04.14-09.18.15:759][720]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2022.04.14-09.18.15:768][720]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.14-09.18.15:770][720]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.04.14-17.18.15
+[2022.04.14-09.18.15:771][720]LogWorld: Bringing up level for play took: 0.002286
+[2022.04.14-09.18.15:771][720]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.04.14-09.18.15:772][720]PIE: Server logged in
+[2022.04.14-09.18.15:773][720]PIE: Play in editor total start time 0.089 seconds.
+[2022.04.14-09.18.23:833][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.14-09.18.23:833][409]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.14-09.18.23:833][409]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-09.18.23:833][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-09.18.23:856][409]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.14-09.18.23:871][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-09.18.23:898][409]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.14-09.18.23:898][409]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.14-09.18.23:899][409]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.14-09.18.23:912][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.14-09.18.23:915][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.04.14-09.18.23:988][410]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.04.14-09.18.32:228][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.14-09.18.32:228][954]PIE: New page: SIE session: ThirdPersonExampleMap (2022年4月15日 上午1:18:32)
+[2022.04.14-09.18.32:277][954]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.14-09.18.32:286][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008747s)
+[2022.04.14-09.18.32:286][954]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.04.14-09.18.32:287][954]LogPlayLevel: PIE: World Init took: (0.000965s)
+[2022.04.14-09.18.32:287][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009904s)
+[2022.04.14-09.18.32:317][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.04.14-09.18.32:319][954]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.04.14-09.18.32:319][954]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.14-09.18.32:319][954]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.14-09.18.32:319][954]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.14-09.18.32:319][954]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.14-09.18.32:319][954]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.14-09.18.32:319][954]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.14-09.18.32:319][954]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.14-09.18.32:319][954]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.14-09.18.32:319][954]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.14-09.18.32:319][954]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.14-09.18.32:322][954]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.14-09.18.32:322][954]LogAudioMixer: Display: 1: FrontRight
+[2022.04.14-09.18.32:333][954]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.04.14-09.18.32:333][954]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.14-09.18.32:333][954]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.14-09.18.32:333][954]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.14-09.18.32:333][954]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.14-09.18.32:333][954]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.14-09.18.32:333][954]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.14-09.18.32:344][954]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.14-09.18.32:345][954]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.14-09.18.32:345][954]LogInit: FAudioDevice initialized.
+[2022.04.14-09.18.32:345][954]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonExampleMap'.
+[2022.04.14-09.18.32:350][954]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.14-09.18.32:352][954]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.04.14-17.18.32
+[2022.04.14-09.18.32:353][954]LogWorld: Bringing up level for play took: 0.002195
+[2022.04.14-09.18.32:353][954]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2022.04.14-09.18.32:368][954]PIE: Server logged in
+[2022.04.14-09.18.32:368][954]PIE: Play in editor total start time 0.146 seconds.
+[2022.04.14-09.18.38:904][339]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (CubeMesh)
+[2022.04.14-09.18.39:752][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.14-09.18.39:752][406]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.14-09.18.39:752][406]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-09.18.39:752][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-09.18.39:797][406]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.14-09.18.39:812][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-09.18.39:838][406]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.14-09.18.39:839][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.14-09.18.39:839][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.14-09.18.39:853][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.14-09.18.39:855][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.04.14-09.18.39:890][407]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.04.14-09.18.40:842][480]LogTemp: Repeating last play command: Simulate
+[2022.04.14-09.18.40:851][480]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.14-09.18.40:851][480]PIE: New page: SIE session: ThirdPersonExampleMap (2022年4月15日 上午1:18:40)
+[2022.04.14-09.18.40:851][480]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.14-09.18.40:860][480]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008865s)
+[2022.04.14-09.18.40:861][480]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.04.14-09.18.40:861][480]LogPlayLevel: PIE: World Init took: (0.000955s)
+[2022.04.14-09.18.40:861][480]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009965s)
+[2022.04.14-09.18.40:891][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.04.14-09.18.40:892][480]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.04.14-09.18.40:892][480]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.14-09.18.40:892][480]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.14-09.18.40:892][480]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.14-09.18.40:892][480]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.14-09.18.40:892][480]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.14-09.18.40:892][480]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.14-09.18.40:892][480]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.14-09.18.40:892][480]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.14-09.18.40:893][480]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.14-09.18.40:893][480]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.14-09.18.40:895][480]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.14-09.18.40:895][480]LogAudioMixer: Display: 1: FrontRight
+[2022.04.14-09.18.40:906][480]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.04.14-09.18.40:906][480]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.14-09.18.40:906][480]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.14-09.18.40:906][480]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.14-09.18.40:906][480]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.14-09.18.40:906][480]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.14-09.18.40:906][480]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.14-09.18.40:918][480]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.14-09.18.40:918][480]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.14-09.18.40:918][480]LogInit: FAudioDevice initialized.
+[2022.04.14-09.18.40:918][480]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonExampleMap'.
+[2022.04.14-09.18.40:929][480]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.14-09.18.40:930][480]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.04.14-17.18.40
+[2022.04.14-09.18.40:931][480]LogWorld: Bringing up level for play took: 0.002143
+[2022.04.14-09.18.40:932][480]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2022.04.14-09.18.40:933][480]PIE: Server logged in
+[2022.04.14-09.18.40:934][480]PIE: Play in editor total start time 0.088 seconds.
+[2022.04.14-09.18.43:102][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.14-09.18.43:102][595]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.14-09.18.43:102][595]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-09.18.43:103][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-09.18.43:117][595]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.14-09.18.43:131][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-09.18.43:158][595]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.14-09.18.43:158][595]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.14-09.18.43:159][595]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.14-09.18.43:172][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.14-09.18.43:175][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.04.14-09.18.43:209][596]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.04.14-09.18.44:796][711]LogTemp: Repeating last play command: Simulate
+[2022.04.14-09.18.44:804][711]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.14-09.18.44:804][711]PIE: New page: SIE session: ThirdPersonExampleMap (2022年4月15日 上午1:18:44)
+[2022.04.14-09.18.44:804][711]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.14-09.18.44:814][711]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008868s)
+[2022.04.14-09.18.44:814][711]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.04.14-09.18.44:815][711]LogPlayLevel: PIE: World Init took: (0.000802s)
+[2022.04.14-09.18.44:815][711]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009790s)
+[2022.04.14-09.18.44:842][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.04.14-09.18.44:844][711]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.04.14-09.18.44:844][711]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.14-09.18.44:844][711]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.14-09.18.44:844][711]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.14-09.18.44:844][711]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.14-09.18.44:844][711]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.14-09.18.44:844][711]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.14-09.18.44:844][711]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.14-09.18.44:844][711]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.14-09.18.44:844][711]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.14-09.18.44:844][711]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.14-09.18.44:847][711]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.14-09.18.44:847][711]LogAudioMixer: Display: 1: FrontRight
+[2022.04.14-09.18.44:858][711]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.04.14-09.18.44:858][711]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.14-09.18.44:858][711]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.14-09.18.44:858][711]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.14-09.18.44:858][711]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.14-09.18.44:858][711]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.14-09.18.44:858][711]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.14-09.18.44:869][711]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.14-09.18.44:869][711]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.14-09.18.44:869][711]LogInit: FAudioDevice initialized.
+[2022.04.14-09.18.44:869][711]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonExampleMap'.
+[2022.04.14-09.18.44:877][711]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.14-09.18.44:879][711]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.04.14-17.18.44
+[2022.04.14-09.18.44:880][711]LogWorld: Bringing up level for play took: 0.002284
+[2022.04.14-09.18.44:880][711]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2022.04.14-09.18.44:882][711]PIE: Server logged in
+[2022.04.14-09.18.44:883][711]PIE: Play in editor total start time 0.084 seconds.
+[2022.04.14-09.18.48:543][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.14-09.18.48:543][978]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.14-09.18.48:543][978]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-09.18.48:543][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-09.18.48:556][978]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.14-09.18.48:570][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-09.18.48:597][978]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.14-09.18.48:598][978]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.14-09.18.48:598][978]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.14-09.18.48:611][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.14-09.18.48:614][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.04.14-09.18.48:646][979]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.04.14-09.18.53:573][485]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.14-09.18.53:573][485]PIE: New page: PIE session: ThirdPersonExampleMap (2022年4月15日 上午1:18:53)
+[2022.04.14-09.18.53:573][485]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.14-09.18.53:581][485]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007855s)
+[2022.04.14-09.18.53:581][485]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.04.14-09.18.53:582][485]LogPlayLevel: PIE: World Init took: (0.000836s)
+[2022.04.14-09.18.53:582][485]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.008810s)
+[2022.04.14-09.18.53:610][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.04.14-09.18.53:612][485]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.04.14-09.18.53:612][485]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.14-09.18.53:612][485]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.14-09.18.53:612][485]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.14-09.18.53:612][485]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.14-09.18.53:612][485]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.14-09.18.53:612][485]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.14-09.18.53:612][485]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.14-09.18.53:612][485]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.14-09.18.53:612][485]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.14-09.18.53:612][485]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.14-09.18.53:614][485]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.14-09.18.53:614][485]LogAudioMixer: Display: 1: FrontRight
+[2022.04.14-09.18.53:625][485]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.04.14-09.18.53:625][485]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.14-09.18.53:625][485]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.14-09.18.53:625][485]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.14-09.18.53:625][485]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.14-09.18.53:625][485]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.14-09.18.53:625][485]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.14-09.18.53:636][485]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.14-09.18.53:636][485]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.14-09.18.53:636][485]LogInit: FAudioDevice initialized.
+[2022.04.14-09.18.53:636][485]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonExampleMap'.
+[2022.04.14-09.18.53:643][485]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.14-09.18.53:644][485]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.04.14-17.18.53
+[2022.04.14-09.18.53:645][485]LogWorld: Bringing up level for play took: 0.002167
+[2022.04.14-09.18.53:646][485]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.04.14-09.18.53:647][485]PIE: Server logged in
+[2022.04.14-09.18.53:648][485]PIE: Play in editor total start time 0.081 seconds.
+[2022.04.14-09.19.06:373][618]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.14-09.19.06:373][618]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.14-09.19.06:373][618]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-09.19.06:373][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-09.19.06:384][618]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.14-09.19.06:399][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-09.19.06:425][618]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.14-09.19.06:425][618]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.14-09.19.06:426][618]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.14-09.19.06:439][618]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.14-09.19.06:442][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.04.14-09.19.06:483][619]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.04.14-09.19.06:930][652]Cmd: SELECT NONE
+[2022.04.14-09.19.07:938][725]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.14-09.19.07:946][725]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.14-09.19.07:946][725]PIE: New page: PIE session: ThirdPersonExampleMap (2022年4月15日 上午1:19:07)
+[2022.04.14-09.19.07:967][725]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.14-09.19.07:974][725]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007701s)
+[2022.04.14-09.19.07:975][725]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.04.14-09.19.07:975][725]LogPlayLevel: PIE: World Init took: (0.000926s)
+[2022.04.14-09.19.07:975][725]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.008777s)
+[2022.04.14-09.19.08:004][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.04.14-09.19.08:006][725]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.04.14-09.19.08:006][725]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.14-09.19.08:006][725]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.14-09.19.08:006][725]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.14-09.19.08:006][725]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.14-09.19.08:006][725]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.14-09.19.08:006][725]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.14-09.19.08:006][725]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.14-09.19.08:006][725]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.14-09.19.08:006][725]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.14-09.19.08:006][725]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.14-09.19.08:009][725]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.14-09.19.08:009][725]LogAudioMixer: Display: 1: FrontRight
+[2022.04.14-09.19.08:019][725]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.04.14-09.19.08:020][725]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.14-09.19.08:020][725]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.14-09.19.08:020][725]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.14-09.19.08:020][725]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.14-09.19.08:020][725]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.14-09.19.08:020][725]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.14-09.19.08:032][725]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.14-09.19.08:032][725]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.14-09.19.08:032][725]LogInit: FAudioDevice initialized.
+[2022.04.14-09.19.08:032][725]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdPersonExampleMap'.
+[2022.04.14-09.19.08:038][725]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.14-09.19.08:040][725]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.04.14-17.19.08
+[2022.04.14-09.19.08:041][725]LogWorld: Bringing up level for play took: 0.002153
+[2022.04.14-09.19.08:041][725]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2022.04.14-09.19.08:042][725]PIE: Server logged in
+[2022.04.14-09.19.08:043][725]PIE: Play in editor total start time 0.102 seconds.
+[2022.04.14-09.20.05:063][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.14-09.20.05:063][867]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.14-09.20.05:063][867]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-09.20.05:063][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-09.20.05:075][867]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.14-09.20.05:080][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-09.20.05:106][867]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.14-09.20.05:106][867]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.14-09.20.05:107][867]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.14-09.20.05:121][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.14-09.20.05:124][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.04.14-09.20.05:143][868]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.04.14-09.20.09:545][211]BlueprintLog: New page: Compile BP_Enemy
+[2022.04.14-09.20.09:595][211]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.04.14-09.20.12:305][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_Enemy" FILE="../../../../UEProject/EQS/Content/AI/BP_Enemy.uasset" SILENT=true
+[2022.04.14-09.20.12:311][419]LogSavePackage: Moving '../../../../UEProject/EQS/Saved/BP_EnemyF6E0433240EBB720E0F82AA628697688.tmp' to '../../../../UEProject/EQS/Content/AI/BP_Enemy.uasset'
+[2022.04.14-09.20.12:327][419]AssetCheck: New page: Asset Save: BP_Enemy
+[2022.04.14-09.20.12:327][419]LogContentValidation: Display: Validating Blueprint /Game/AI/BP_Enemy.BP_Enemy
+[2022.04.14-09.20.14:394][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonController" FILE="../../../../UEProject/EQS/Content/ThirdPersonBP/Blueprints/ThirdPersonController.uasset" SILENT=true
+[2022.04.14-09.20.14:408][566]LogSavePackage: Moving '../../../../UEProject/EQS/Saved/ThirdPersonController8506599D447B410A818C08BCD1B212CE.tmp' to '../../../../UEProject/EQS/Content/ThirdPersonBP/Blueprints/ThirdPersonController.uasset'
+[2022.04.14-09.20.14:420][566]AssetCheck: New page: Asset Save: ThirdPersonController
+[2022.04.14-09.20.14:420][566]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonController.ThirdPersonController
+[2022.04.14-09.22.04:843][328]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall9)
+[2022.04.14-09.22.05:829][417]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.14-09.22.05:838][417]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.14-09.22.05:838][417]PIE: New page: PIE session: ThirdPersonExampleMap (2022年4月15日 上午1:22:05)
+[2022.04.14-09.22.05:838][417]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.14-09.22.05:847][417]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008377s)
+[2022.04.14-09.22.05:848][417]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.04.14-09.22.05:848][417]LogPlayLevel: PIE: World Init took: (0.001008s)
+[2022.04.14-09.22.05:848][417]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009531s)
+[2022.04.14-09.22.05:879][417]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.04.14-09.22.05:882][417]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.04.14-09.22.05:882][417]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.14-09.22.05:882][417]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.14-09.22.05:882][417]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.14-09.22.05:882][417]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.14-09.22.05:882][417]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.14-09.22.05:882][417]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.14-09.22.05:882][417]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.14-09.22.05:882][417]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.14-09.22.05:883][417]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.14-09.22.05:883][417]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.14-09.22.05:885][417]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.14-09.22.05:885][417]LogAudioMixer: Display: 1: FrontRight
+[2022.04.14-09.22.05:896][417]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.04.14-09.22.05:897][417]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.14-09.22.05:897][417]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.14-09.22.05:897][417]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.14-09.22.05:897][417]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.14-09.22.05:897][417]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.14-09.22.05:897][417]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.14-09.22.05:908][417]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.14-09.22.05:908][417]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.14-09.22.05:908][417]LogInit: FAudioDevice initialized.
+[2022.04.14-09.22.05:909][417]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdPersonExampleMap'.
+[2022.04.14-09.22.05:915][417]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.14-09.22.05:917][417]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.04.14-17.22.05
+[2022.04.14-09.22.05:918][417]LogWorld: Bringing up level for play took: 0.002277
+[2022.04.14-09.22.05:918][417]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.04.14-09.22.05:920][417]PIE: Server logged in
+[2022.04.14-09.22.05:920][417]PIE: Play in editor total start time 0.088 seconds.
+[2022.04.14-09.23.46:293][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.14-09.23.46:293][ 85]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.14-09.23.46:293][ 85]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-09.23.46:293][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-09.23.46:307][ 85]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.14-09.23.46:321][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-09.23.46:347][ 85]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.14-09.23.46:347][ 85]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.14-09.23.46:348][ 85]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.14-09.23.46:361][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.14-09.23.46:364][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.04.14-09.23.46:397][ 86]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.04.14-09.23.49:330][307]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.04.14-09.24.27:048][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EQS_FindPlayer" FILE="../../../../UEProject/EQS/Content/AI/EQS_FindPlayer.uasset" SILENT=true
+[2022.04.14-09.24.27:049][465]LogSavePackage: Moving '../../../../UEProject/EQS/Saved/EQS_FindPlayer81DD54A94C7F03951400F09D44DF0C7D.tmp' to '../../../../UEProject/EQS/Content/AI/EQS_FindPlayer.uasset'
+[2022.04.14-09.24.27:063][465]AssetCheck: New page: Asset Save: EQS_FindPlayer
+[2022.04.14-09.24.27:063][465]LogContentValidation: Display: Validating EnvQuery /Game/AI/EQS_FindPlayer.EQS_FindPlayer
+[2022.04.14-09.25.07:554][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EQS_FindPlayer" FILE="../../../../UEProject/EQS/Content/AI/EQS_FindPlayer.uasset" SILENT=true
+[2022.04.14-09.25.07:555][888]LogSavePackage: Moving '../../../../UEProject/EQS/Saved/EQS_FindPlayer7132626F42B5C99658DF8CBB5E63FEFF.tmp' to '../../../../UEProject/EQS/Content/AI/EQS_FindPlayer.uasset'
+[2022.04.14-09.25.07:568][888]AssetCheck: New page: Asset Save: EQS_FindPlayer
+[2022.04.14-09.25.07:568][888]LogContentValidation: Display: Validating EnvQuery /Game/AI/EQS_FindPlayer.EQS_FindPlayer
+[2022.04.14-09.25.55:791][964]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.14-09.25.55:799][964]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.14-09.25.55:799][964]PIE: New page: PIE session: ThirdPersonExampleMap (2022年4月15日 上午1:25:55)
+[2022.04.14-09.25.55:799][964]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.14-09.25.55:807][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008342s)
+[2022.04.14-09.25.55:808][964]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.04.14-09.25.55:809][964]LogPlayLevel: PIE: World Init took: (0.001138s)
+[2022.04.14-09.25.55:809][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009627s)
+[2022.04.14-09.25.55:840][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.04.14-09.25.55:843][964]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.04.14-09.25.55:843][964]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.14-09.25.55:843][964]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.14-09.25.55:843][964]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.14-09.25.55:843][964]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.14-09.25.55:844][964]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.14-09.25.55:844][964]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.14-09.25.55:844][964]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.14-09.25.55:844][964]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.14-09.25.55:844][964]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.14-09.25.55:844][964]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.14-09.25.55:846][964]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.14-09.25.55:846][964]LogAudioMixer: Display: 1: FrontRight
+[2022.04.14-09.25.55:858][964]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.04.14-09.25.55:858][964]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.14-09.25.55:858][964]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.14-09.25.55:858][964]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.14-09.25.55:858][964]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.14-09.25.55:858][964]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.14-09.25.55:858][964]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.14-09.25.55:869][964]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.14-09.25.55:869][964]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.14-09.25.55:869][964]LogInit: FAudioDevice initialized.
+[2022.04.14-09.25.55:869][964]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonExampleMap'.
+[2022.04.14-09.25.55:876][964]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.14-09.25.55:878][964]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.04.14-17.25.55
+[2022.04.14-09.25.55:879][964]LogWorld: Bringing up level for play took: 0.002296
+[2022.04.14-09.25.55:879][964]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2022.04.14-09.25.55:880][964]PIE: Server logged in
+[2022.04.14-09.25.55:881][964]PIE: Play in editor total start time 0.088 seconds.
+[2022.04.14-09.36.23:504][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.14-09.36.23:504][723]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.14-09.36.23:504][723]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-09.36.23:505][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-09.36.23:522][723]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.14-09.36.23:537][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-09.36.23:565][723]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.14-09.36.23:565][723]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.14-09.36.23:566][723]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.14-09.36.23:580][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.14-09.36.23:583][723]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.04.14-09.36.23:636][724]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.04.14-09.36.25:513][867]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.14-09.36.25:521][867]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.14-09.36.25:522][867]PIE: New page: PIE session: ThirdPersonExampleMap (2022年4月15日 上午1:36:25)
+[2022.04.14-09.36.25:558][867]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.14-09.36.25:566][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008667s)
+[2022.04.14-09.36.25:567][867]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.04.14-09.36.25:567][867]LogPlayLevel: PIE: World Init took: (0.001080s)
+[2022.04.14-09.36.25:567][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009916s)
+[2022.04.14-09.36.25:598][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.04.14-09.36.25:600][867]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.04.14-09.36.25:600][867]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.14-09.36.25:600][867]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.14-09.36.25:600][867]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.14-09.36.25:600][867]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.14-09.36.25:600][867]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.14-09.36.25:600][867]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.14-09.36.25:600][867]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.14-09.36.25:600][867]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.14-09.36.25:600][867]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.14-09.36.25:600][867]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.14-09.36.25:603][867]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.14-09.36.25:603][867]LogAudioMixer: Display: 1: FrontRight
+[2022.04.14-09.36.25:614][867]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.04.14-09.36.25:614][867]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.14-09.36.25:614][867]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.14-09.36.25:614][867]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.14-09.36.25:615][867]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.14-09.36.25:615][867]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.14-09.36.25:615][867]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.14-09.36.25:626][867]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.14-09.36.25:626][867]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.14-09.36.25:626][867]LogInit: FAudioDevice initialized.
+[2022.04.14-09.36.25:626][867]LogAudio: Display: Audio Device (ID: 12) registered with world 'ThirdPersonExampleMap'.
+[2022.04.14-09.36.25:633][867]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.14-09.36.25:635][867]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.04.14-17.36.25
+[2022.04.14-09.36.25:636][867]LogWorld: Bringing up level for play took: 0.002246
+[2022.04.14-09.36.25:636][867]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2022.04.14-09.36.25:638][867]PIE: Server logged in
+[2022.04.14-09.36.25:638][867]PIE: Play in editor total start time 0.122 seconds.
+[2022.04.14-09.37.00:283][231]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 306
+[2022.04.14-09.37.00:283][231]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/AI/AIC_Enemy.AIC_Enemy_C:BndEvt__AIC_Enemy_AIPerception_K2Node_ComponentBoundEvent_0_ActorPerceptionUpdatedDelegate__DelegateSignature
+	Function /Game/AI/AIC_Enemy.AIC_Enemy_C:ExecuteUbergraph_AIC_Enemy
+
+[2022.04.14-09.37.38:313][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.14-09.37.38:313][407]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.14-09.37.38:313][407]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-09.37.38:314][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-09.37.38:329][407]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.14-09.37.38:344][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-09.37.38:371][407]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.14-09.37.38:372][407]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.14-09.37.38:372][407]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.14-09.37.38:385][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.14-09.37.38:388][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.04.14-09.37.38:440][408]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.04.14-09.41.33:001][436]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.04.14-09.41.33:017][436]LogSavePackage: Moving '../../../../UEProject/EQS/Saved/ThirdPersonExampleMap_Auto3823BAF7140F579F5BF00DA95257B6F45.tmp' to '../../../../UEProject/EQS/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2022.04.14-09.41.33:018][436]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.050
+[2022.04.14-09.41.33:018][436]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.050
+[2022.04.14-09.41.33:019][436]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/AIC_Enemy] ([1] browsable assets)...
+[2022.04.14-09.41.33:019][436]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/AIC_Enemy]
+[2022.04.14-09.41.33:019][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AIC_Enemy" FILE="../../../../UEProject/EQS/Saved/Autosaves/Game/AI/AIC_Enemy_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2022.04.14-09.41.33:032][436]LogSavePackage: Moving '../../../../UEProject/EQS/Saved/AIC_Enemy_Auto3E83C898444AFE2F16E431CBE9AB23AA6.tmp' to '../../../../UEProject/EQS/Saved/Autosaves/Game/AI/AIC_Enemy_Auto3.uasset'
+[2022.04.14-09.41.33:033][436]LogFileHelpers: Auto-saving content packages took 0.014
+[2022.04.14-09.54.32:785][282]LogSlate: Window 'Change Variable Type' being destroyed
+[2022.04.14-09.54.56:910][ 37]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.04.14-09.54.56:938][ 37]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.04.14-09.55.57:062][723]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2022.04.14-09.55.57:066][723]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.040
+[2022.04.14-09.55.57:067][723]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/AIC_Enemy] ([1] browsable assets)...
+[2022.04.14-09.55.57:067][723]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/AIC_Enemy]
+[2022.04.14-09.55.57:067][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AIC_Enemy" FILE="../../../../UEProject/EQS/Saved/Autosaves/Game/AI/AIC_Enemy_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2022.04.14-09.55.57:080][723]LogSavePackage: Moving '../../../../UEProject/EQS/Saved/AIC_Enemy_Auto4DA6F9CD3468B05140228BEA7A5EA2137.tmp' to '../../../../UEProject/EQS/Saved/Autosaves/Game/AI/AIC_Enemy_Auto4.uasset'
+[2022.04.14-09.55.57:080][723]LogFileHelpers: Auto-saving content packages took 0.014
+[2022.04.14-10.00.51:271][158]LogSlate: Window 'Delete Variable' being destroyed
+[2022.04.14-10.00.59:965][761]LogSlate: Window 'Delete Variable' being destroyed
+[2022.04.14-10.05.57:435][912]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2022.04.14-10.05.57:444][912]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.046
+[2022.04.14-10.05.57:444][912]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/AIC_Enemy] ([1] browsable assets)...
+[2022.04.14-10.05.57:444][912]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/AIC_Enemy]
+[2022.04.14-10.05.57:444][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AIC_Enemy" FILE="../../../../UEProject/EQS/Saved/Autosaves/Game/AI/AIC_Enemy_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2022.04.14-10.05.57:457][912]LogSavePackage: Moving '../../../../UEProject/EQS/Saved/AIC_Enemy_Auto556C2A13D436898D107BFDDA95C842D4B.tmp' to '../../../../UEProject/EQS/Saved/Autosaves/Game/AI/AIC_Enemy_Auto5.uasset'
+[2022.04.14-10.05.57:458][912]LogFileHelpers: Auto-saving content packages took 0.014
+[2022.04.14-11.38.50:061][936]LogEditorViewport: Clicking on Actor (context menu): ThirdPersonController_C (ThirdPersonCharacter)
+[2022.04.14-11.38.50:870][973]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2022.04.14-11.40.41:280][109]LogSlate: Window 'Delete Variable' being destroyed
+[2022.04.14-11.40.43:477][178]LogSlate: Window 'Delete Variable' being destroyed
+[2022.04.14-11.41.51:838][294]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2022.04.14-11.41.54:197][468]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.14-11.41.54:208][468]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.04.14-11.41.54:208][468]LogPlayLevel: [PlayLevel] Compiling AIC_Enemy before play...
+[2022.04.14-11.41.54:284][468]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2022.04.14-11.41.54:296][468]LogPlayLevel: PlayLevel: Blueprint regeneration took 88 ms (1 blueprints)
+[2022.04.14-11.41.54:296][468]PIE: New page: PIE session: ThirdPersonExampleMap (2022年4月15日 上午3:41:54)
+[2022.04.14-11.41.54:296][468]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.14-11.41.54:307][468]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010352s)
+[2022.04.14-11.41.54:308][468]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.04.14-11.41.54:308][468]LogPlayLevel: PIE: World Init took: (0.001329s)
+[2022.04.14-11.41.54:308][468]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011848s)
+[2022.04.14-11.41.54:342][468]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.04.14-11.41.54:343][468]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.04.14-11.41.54:343][468]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.14-11.41.54:343][468]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.14-11.41.54:343][468]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.14-11.41.54:343][468]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.14-11.41.54:343][468]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.14-11.41.54:343][468]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.14-11.41.54:343][468]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.14-11.41.54:343][468]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.14-11.41.54:344][468]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.14-11.41.54:344][468]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.14-11.41.54:347][468]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.14-11.41.54:347][468]LogAudioMixer: Display: 1: FrontRight
+[2022.04.14-11.41.54:358][468]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.04.14-11.41.54:358][468]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.14-11.41.54:358][468]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.14-11.41.54:358][468]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.14-11.41.54:359][468]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.14-11.41.54:359][468]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.14-11.41.54:359][468]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.14-11.41.54:371][468]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.14-11.41.54:371][468]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.14-11.41.54:371][468]LogInit: FAudioDevice initialized.
+[2022.04.14-11.41.54:371][468]LogAudio: Display: Audio Device (ID: 13) registered with world 'ThirdPersonExampleMap'.
+[2022.04.14-11.41.54:378][468]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.14-11.41.54:380][468]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.04.14-19.41.54
+[2022.04.14-11.41.54:382][468]LogWorld: Bringing up level for play took: 0.002824
+[2022.04.14-11.41.54:382][468]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2022.04.14-11.41.54:384][468]PIE: Server logged in
+[2022.04.14-11.41.54:385][468]PIE: Play in editor total start time 0.183 seconds.
+[2022.04.14-11.42.21:620][ 62]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.14-11.42.21:620][ 62]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.14-11.42.21:620][ 62]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-11.42.21:620][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-11.42.21:635][ 62]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.14-11.42.21:650][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-11.42.21:680][ 62]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.14-11.42.21:680][ 62]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.14-11.42.21:681][ 62]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.14-11.42.21:697][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.04.14-11.42.21:747][ 63]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.04.14-11.42.21:796][ 64]Cmd: SELECT NONE
+[2022.04.14-11.42.25:009][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AIC_Enemy" FILE="../../../../UEProject/EQS/Content/AI/AIC_Enemy.uasset" SILENT=true
+[2022.04.14-11.42.25:022][331]LogSavePackage: Moving '../../../../UEProject/EQS/Saved/AIC_Enemy8B847BB247A90AEF7B9A24852F14142D.tmp' to '../../../../UEProject/EQS/Content/AI/AIC_Enemy.uasset'
+[2022.04.14-11.42.25:037][331]AssetCheck: New page: Asset Save: AIC_Enemy
+[2022.04.14-11.42.25:037][331]LogContentValidation: Display: Validating Blueprint /Game/AI/AIC_Enemy.AIC_Enemy
